@@ -1,4 +1,4 @@
 # Prathyusha-Portfolio
- Personal portfolio website.
+ [Personal portfolio website.](https://prathyusha-guduru.github.io/Prathyusha-Portfolio/)
 
-Live link : https://prathyusha-guduru.github.io/Prathyusha-Portfolio/
+
