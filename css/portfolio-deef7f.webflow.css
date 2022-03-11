@@ -653,11 +653,11 @@
 
 .contact {
   position: relative;
-  overflow: visible;
+  overflow: hidden;
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 0px;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 140px;
 }
 
 .input-feild {
